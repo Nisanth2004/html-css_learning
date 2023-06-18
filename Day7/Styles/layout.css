@@ -1,0 +1,81 @@
+boody {
+    margin: 0px;
+}
+
+.container {
+    width: 1200px;
+    height: 800px;
+    border: 3px solid black;
+}
+
+.header {
+    width: 1200px;
+    height: 70px;
+    background-color: aliceblue;
+    border: 3px solid green;
+}
+
+.h1,
+.h3 {
+    width: 391px;
+    height: 70px;
+    background-color: aliceblue;
+    border: 3px solid green;
+    float: left;
+}
+
+.h2 {
+    width: 400px;
+    height: 70px;
+    background-color: aliceblue;
+    border: 3px solid green;
+    float: left;
+}
+
+.menu {
+    width: 1200px;
+    height: 60px;
+    border: 3px solid black;
+    background-color: grey;
+}
+
+.m1,
+.m2,
+.m3 {
+    width: 300px;
+    height: 60px;
+    background: color #f6f6f6;
+    border: 3px solid burlywood;
+    float: left;
+}
+
+.m4 {
+    width: 275px;
+    height: 60px;
+    background: color #f6f6f6;
+    border: 3px solid burlywood;
+    float: left;
+}
+
+.content {
+    width: 1200px;
+    height: 600px;
+    border: 3px solid black;
+}
+
+.content>div {
+    /*contentku ulla irukura divsion*/
+    height: 598px;
+    border: 3px solid lime;
+    float: left;
+}
+
+.c1 {
+    width: 300px;
+    float: left;
+}
+
+.c2 {
+    width: 887px;
+    float: left;
+}
