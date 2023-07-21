@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisanth2004&" alt="nisanth2004" /></p>
 <img src="pexels-bich-tran-669996.jpg" alt="web developer" width="50px">
-i[](pexels-bich-tran-669996.jpg)
+
